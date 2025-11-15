@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4yfjwtrdbxbl9tjfpiviz18bu&cover_image=false&theme=default&show_offline=false&background_color=3b2277&interchange=false&profanity=false&bar_color=190448">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4yfjwtrdbxbl9tjfpiviz18bu&cover_image=false&theme=default&show_offline=false&background_color=3b2277&interchange=true&profanity=false&bar_color=190448&bar_color_cover=false">
   </a>
-</p> 
+</p>
 
                                                              - ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ - 
 <p align="center">
